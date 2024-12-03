@@ -12,4 +12,4 @@ scikit-learn==1.5.2
 seaborn==0.13.2
 protobuf==3.19.6
 altair==4.2.2
-
+sounddevice==0.5.1
