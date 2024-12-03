@@ -11,3 +11,5 @@ soundfile==0.12.1
 scikit-learn==1.5.2
 seaborn==0.13.2
 protobuf==3.19.6
+altair==4.2.2
+
